@@ -49,13 +49,6 @@ This project demonstrates the implementation of machine learning models to recog
 
 ---
 
-## Suggested Next Steps
-- Implement a Convolutional Neural Network (CNN) to improve accuracy (~98–99%).  
-- Include interactive visualizations to explore model predictions and errors.  
-- Experiment with hyperparameter tuning for Random Forest and SVM models to optimize performance.
-
----
-
 ## Repository Contents
 - `MNIST_Handwritten_Digit_Recognition.ipynb` — Jupyter notebook containing all code, plots, and explanations.  
 - `README.md` — This file, providing an overview and summary of the project.
